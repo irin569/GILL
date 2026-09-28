@@ -1,0 +1,6 @@
+{
+  "name": "GAME STORE",
+  "description": "ร้านขายเกมออนไลน์แบบครบวงจร ระบบจำหน่าย Game Keys, Gift Cards พร้อม Dashboard และระบบจัดการหลังบ้าน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
